@@ -6,8 +6,12 @@ public class Demo {
 		
 		System.out.println("This is demo project");
 	}
-
+	
+	private void addToKart() {
+		System.out.println("Abc");
+	}
+	
 	private void payment() {
-		System.out.println("This is keerthana- working on payment");
+		System.out.println("Abc");
 	}
 }
