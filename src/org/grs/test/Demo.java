@@ -7,4 +7,7 @@ public class Demo {
 		System.out.println("This is demo project");
 	}
 
+	private void addToKart() {
+		System.out.println("This is dhanalakshmi - working on add to kart");
+	}
 }
